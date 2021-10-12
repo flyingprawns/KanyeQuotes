@@ -1,5 +1,5 @@
 -----------------
-Password Manager
+Kanye Quotes
 -----------------
 Must have Python 3 installed.
 Must have "requests" module installed.
